@@ -1,0 +1,4 @@
+SensorName;SensorID;description;targetvalue;hardupperlimit;hardlowerlimit;softupperlimit;softlowerlimit;Unit
+Width 1;210;Width;20;0;0;0;0;mm
+Diagonal 1;225;Width;53.852;0;0;0;0;mm
+Length 1;226;Width;50;0;0;0;0;mm

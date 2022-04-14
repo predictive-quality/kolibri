@@ -1,0 +1,9 @@
+FunctionName;SensorName;SensorID;Type;FeedType;Index;Axis;Unit;Range-min;Range-max;Comment
+Not Applicable;x_ist;211;;;;;mm;-99999,0;99999,0;
+Not Applicable;y_ist;212;;;;;mm;-99999,0;99999,0;
+Not Applicable;x_soll;213;;;;;mm;-99999,0;99999,0;
+Not Applicable;y_soll;214;;;;;mm;-99999,0;99999,0;
+Not Applicable;spindel_voltage;215;;;;;mm;-99999,0;99999,0;
+Not Applicable;feed_voltage;216;;;;;mm;-99999,0;99999,0;
+Not Applicable;rot_speed;217;;;;;mm;-99999,0;99999,0;
+Not Applicable;sp_fwd;218;;;;;mm;-99999,0;99999,0;

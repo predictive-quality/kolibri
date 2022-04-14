@@ -1,0 +1,7 @@
+absl-py
+requests
+more_itertools
+certifi
+pandas
+--extra-index-url https://package-read:gkYP4xrm2PxicUbW1wra@git-ce.rwth-aachen.de/api/v4/projects/1708/packages/pypi/simple
+wzl-mqtt
